@@ -1,3 +1,3 @@
 # BianMark.github.io
-Repository for Zhen Bian's academic research website.
+Repository for Zhen Bian's personal website.
 
